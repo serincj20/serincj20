@@ -59,7 +59,7 @@ I'm **Serin C J**, a Data Analyst based in Dubai, UAE. With 2+ years of experien
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[ai_job_market.ipynb](https://github.com/serincj20/my_python_project)**    | Exploratory data analysis of a 2025–2026 AI jobs market dataset, built in Python to uncover salary trends, demand patterns, and the impact of remote work and LLM-related roles.Tools: Python, Pandas, NumPy, Matplotlib (Jupyter Notebook / Google Colab) |
+| **[ai_job_market.ipynb](https://github.com/serincj20/ai_job_market.ipynb/blob/main/README.md)**    | Exploratory data analysis of a 2025–2026 AI jobs market dataset, built in Python to uncover salary trends, demand patterns, and the impact of remote work and LLM-related roles.Tools: Python, Pandas, NumPy, Matplotlib (Jupyter Notebook / Google Colab) |
 | **[KPI Reporting Automation](https://github.com/)**    | Excel Power Query automation replacing a manual weekly reporting process |
 
 ---
